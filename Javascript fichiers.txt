@@ -1,0 +1,11 @@
+Javascript fichiers:
+
+ - JQuery (http://jquery.com/)
+ - Modernizr (http://modernizr.com/)
+ - Waypoints (http://imakewebthings.com/jquery-waypoints/)
+ - Magnific Popup (http://dimsemenov.com/plugins/magnific-popup/)
+ - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
+ - AjaxChimp (https://github.com/scdoshi/jquery-ajaxchimp)
+ - FitVids (http://fitvidsjs.com/)
+
+ 
