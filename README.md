@@ -19,3 +19,8 @@ still under development
  ```
  copy your project to htdocs (C:/wampserver/www)
  ```
+ # Screens
+ 
+![header](/images/Capture.PNG)
+![users](/images/Capture2.PNG)
+![footer](/images/Capture3.PNG)
